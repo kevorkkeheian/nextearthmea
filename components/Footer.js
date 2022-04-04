@@ -6,7 +6,7 @@ export default function Footer() {
       <footer className={styles.footer}> 
         <i class="bi bi-code-slash fw-bold m-1"></i>
         with 💙
-        by <span class="fw-bold ms-1"> <a class="text-decoration-none" href="https:/kevork.keheian.me">Kevork Keheian</a></span>
+        by <span class="fw-bold ms-1"> <a class="text-decoration-none" href="https://codgram.com">Codgram</a></span>
       </footer>
     </>
   )
