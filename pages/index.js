@@ -17,9 +17,9 @@ export default function Home() {
    <html>
       <Head>
         <title>Next Earth Promo</title>
-        <meta name="description" content="Next Earth Promo Code"/>
-        <meta name="keywords" content="nextearth., nextearth.io, coupon codes, deals, discount, promo code>"></meta>
-        <meta name="description" content="Use this promo code to get a discount starting 5% and more, the more you use, the more you get discounts & remember... don't buy a single tile without a promo code, so that  you can  benefit!"></meta>
+        <meta name="title" content="Next Earth Promo Code - VP64TEEA75 - Up to 10%"/>
+        <meta name="keywords" content="nextearth., next earth promo, next earth promo code, promo code nextearth.io, coupon codes, deals, discount, promo code>"></meta>
+        <meta name="description" content="Next Earth Promo Code. Get 10% discount on Next Earth metaverse. Get nextearth.io coupon codes, discounts and promos and save up to 10%"></meta>
         
         <link rel="icon" href="/favicon.ico" />
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous"></link>
@@ -28,18 +28,26 @@ export default function Home() {
         
 
         {/* Facebook  Open Graph*/}
-        <meta property="og:title" content="Next Earh Promo" />
+        <meta property="og:title" content="Next Earh Promo - VP64TEEA75 - Up to 10%" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://nextearthpomo.com" />
-        <meta property="og:image" content="https://nextearthpomo.com/earth.png" />
-        <meta property="og:description" content="Get a discount starting 5% and more!" />
+        <meta property="og:url" content="https://nextearthpromo.com" />
+        <meta property="og:image" content="https://nextearthpromo.com/earth.png" />
+        <meta property="og:description" content="Next Earth Promo Code. Get 10% discount on Next Earth metaverse. Get nextearth.io coupon codes, discounts and promos and save up to 10%" />
+
+
+        {/* Twitter Card */}
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content="Next Earh Promo - VP64TEEA75 - Up to 10%" />
+        <meta name="twitter:description" content="Next Earth Promo Code. Get 10% discount on Next Earth metaverse. Get nextearth.io coupon codes, discounts and promos and save up to 10%" />
+
+
         </Head>
         <body>
          <div className="container">
         <main>
           <Header title="Welcome to Next Earth 🌍" />
 
-          <Description description="Use this promo code to get a discount starting 5% and more, the more you use, the more you get discounts & remember... don't buy a single tile without a promo code, so that  you can  benefit! 🙂"/>
+          <Description description="What is a Promo Code & why to use it specially  in Next Earth? Promo codes is the only thing that helps you save,and have discounts on your  every single purchase starting minimum from 5% and more... the more you use this code the more it increases and benefits you ,  use this promo code to get your discounts & remember... don't buy a single tile without a promo code, in order not to miss the Lovely discounts ! 🙂"/>
 
           <h3 className="text-center">
             Use the Promo Code  
