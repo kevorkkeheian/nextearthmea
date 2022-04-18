@@ -47,7 +47,7 @@ export default function Home() {
         <main>
           <Header title="Welcome to Next Earth 🌍" />
 
-          <Description description="What is a Promo Code & why to use it specially  in Next Earth? Promo codes is the only thing that helps you save,and have discounts on your  every single purchase starting minimum from 5% and more... the more you use this code the more it increases and benefits you ,  use this promo code to get your discounts & remember... don't buy a single tile without a promo code, in order not to miss the Lovely discounts ! 🙂"/>
+          <Description description="What is a Promo Code & why to use it specially  in Next Earth? Promo code is the only thing that helps you save, and have discounts on your every single purchase starting from 5% and more... The more you use this code the more it increases and benefits you. Use this promo code to get your discounts. And remember... don't buy a single tile without a promo code, in order not to miss the Lovely discounts ! 🙂"/>
 
           <h3 className="text-center">
             Use the Promo Code  
